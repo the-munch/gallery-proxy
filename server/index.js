@@ -35,9 +35,4 @@ app.all('/header/:id', function(req, res) {
     proxy.web(req, res, { target: header });
 });
 
-
-
-
-
-
 app.listen(PORT, ()=> console.log(`Server listening on port ${PORT}`))

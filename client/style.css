@@ -1,0 +1,48 @@
+.map {
+    float: left; 
+    margin-top: 25px;
+    margin-left: 230px;  
+    width: 345px; 
+    height: 400px; 
+}
+
+.search {
+    max-width: 105%;
+    margin-bottom: 1em;
+}
+
+#reservation {
+    float: right;
+    margin-right: 12em;
+    margin-top: -335px;
+    height: 500px; 
+    /* margin-top: 3em;  */
+}
+
+body {
+    overflow: scroll; 
+}
+
+#popular {
+    margin-left: 220px;  
+    margin-top: 125px;
+}
+
+#header {
+    margin-left: -4em; 
+}
+
+#gallery {
+    padding-top: 80px; 
+    margin-right: 35px;
+    margin-left: 0px;
+    margin-right: 5px;
+}
+
+.corp { 
+    margin-top: 60px;
+    margin-bottom: 20px;
+    width: 635px; 
+    margin-left: 200px; 
+    float:left;
+}
